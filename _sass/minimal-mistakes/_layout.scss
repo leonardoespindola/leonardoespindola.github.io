@@ -1,3 +1,8 @@
+@media screen and (max-width: $breakpoint-tablet - 1px) {
+  body {
+    font-size: 90%; // Ajusta el tamaño de fuente para pantallas más pequeñas si lo deseas
+  }
+}
 .avatar {
   display: flex;
   justify-content: center;

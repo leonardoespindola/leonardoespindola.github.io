@@ -22,7 +22,7 @@ subtitle                 : # site tagline that appears below site title in masth
 name                     : "Leonardo Espindola"
 description              : "An amazing website."
 url                      : "https://leonardoespindola.github.io"
-baseurl                  : # the subpath of your site, e.g. "/blog"
+#baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
@@ -79,6 +79,15 @@ naver_site_verification  :
 yandex_site_verification :
 baidu_site_verification  :
 
+navigation:
+  - title: "Inicio"
+    url: /
+  - title: "Acerca de"
+    url: /about/
+  - title: "Blog"
+    url: /blog/
+
+
 # Social Sharing
 twitter:
   username               :
@@ -106,28 +115,22 @@ analytics:
 author:
   name             : "Leonardo Espindola"
   avatar           : "/assets/images/leo2.jpeg"
-  bio              : " QA Enginner"
-  location         : "Somewhere"
+  bio              : " QA Enginner - Helping IT professionals to enhance 🚀 quality in their organizations with innovative and creative techniques 💡"
+  #location         : "Somewhere"
   email            :
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:your.name@email.com"
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      # url: "https://twitter.com/"
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      # url: "https://facebook.com/"
+      #url: "mailto:espinleo@gmail.com"
+    - label: "Linkedin"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://linkedin.com/in/leonardoespindola"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
+      url: "https://github.com/leonardoespindola"
+    - label: "Youtube"
+      icon: "fab fa-fw fa-youtube"
+      url: "https://youtube.com/@leonardo-espindola"
 
 
 
@@ -291,4 +294,14 @@ defaults:
       read_time: true
       comments: # true
       share: true
+      related: true
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true
+      read_time: false
+      comments: false
+      share: false
       related: true

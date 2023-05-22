@@ -65,6 +65,14 @@ google_site_verification :
 bing_site_verification   :
 yandex_site_verification :
 
+navigation:
+  - title: "Inicio"
+    url: /
+  - title: "Acerca de"
+    url: /about/
+  - title: "Blog"
+    url: /blog/
+
 # Social Sharing
 twitter:
   username               : "mmistakes"

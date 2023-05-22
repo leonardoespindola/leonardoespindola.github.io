@@ -2,6 +2,10 @@
 main:
   - title: "Quick-Start Guide"
     url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+avatar:
+  - image: "/assets/images/leo0.png" # Ruta de la imagen de avatar (reemplaza con tu propia imagen)
+    alt: "Avatar" # Texto alternativo para la imagen
+
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
