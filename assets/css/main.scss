@@ -7,3 +7,9 @@ search: false
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
+
+.splash-background {
+  background-image: url('/assets/images/wallpaperbetter.jpg');
+  /* Otros estilos para el fondo, como background-size, background-position, etc. */
+}
+

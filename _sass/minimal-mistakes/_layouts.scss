@@ -1,0 +1,18 @@
+.avatar {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+width: 100px;
+  height: 100px;
+  border-radius: 20%;
+  overflow: hidden;
+  margin: 0 auto;
+}
+
+.avatar img {
+  max-width: 100%;
+  max-height: 100%;
+  width: auto;
+  height: auto;
+  /* Resto de los estilos */
+}

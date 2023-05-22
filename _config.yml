@@ -104,9 +104,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
+  name             : "Leonardo Espindola"
+  avatar           : "/assets/images/leo2.jpeg"
+  bio              : " QA Enginner"
   location         : "Somewhere"
   email            :
   links:
@@ -128,6 +128,8 @@ author:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
+
+
 
 # Site Footer
 footer:
