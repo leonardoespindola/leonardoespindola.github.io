@@ -1,7 +1,7 @@
 ---
 title: "Blog"
 permalink: /blog/
-layout: categories
+layout: home-original
 entries_layout: grid
 search: false
 ---
