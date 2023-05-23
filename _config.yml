@@ -86,6 +86,8 @@ navigation:
     url: /about/
   - title: "Blog"
     url: /blog/
+  - title: "Posts"
+    url: /posts/
 
 
 # Social Sharing
