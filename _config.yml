@@ -141,7 +141,7 @@ footer:
       icon: "fab fa-fw fa-linkedin-square"
       url: https://www.linkedin.com/in/leonardoespindola
     - label: "Facebook"
-      icon: "fab fa-fw fa-linkedin-square"
+      icon: "fab fa-fw fa-linkedin-in"
       # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
