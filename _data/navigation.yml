@@ -1,7 +1,13 @@
 # main links
 main:
-  - title: "Quick-Start Guide"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+  - title: "About"
+    url: /about/
+  - title: "Blog"
+    url: /blog/
+  - title: "Contact"
+    url: /about/
+  - title: "Training"
+    url: /about/
 avatar:
   - image: "/assets/images/leo0.png" # Ruta de la imagen de avatar (reemplaza con tu propia imagen)
     alt: "Avatar" # Texto alternativo para la imagen
