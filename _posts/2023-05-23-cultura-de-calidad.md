@@ -1,6 +1,7 @@
 ---
 title: Cultura de calidad
 date: 2023-05-23
+permalink: /:categories/:title/
 header:
   image: /assets/images/cover-images/1.png
   teaser: /assets/images/cover-images/1.png
