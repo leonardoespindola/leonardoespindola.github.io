@@ -1,8 +1,10 @@
 ---
 title: "Overriding Theme Defaults"
-permalink: /docs/overriding-theme-defaults/
+permalink: /training/soapui/overriding-theme-defaults/
 excerpt: "Instructions on how to customize the theme's default set of layouts, includes, and stylesheets when using the Ruby Gem version."
 last_modified_at: 2020-07-27
+sidebar:
+  nav: "soapui"
 ---
 
 When installing the theme as a Ruby Gem its layouts, includes, stylesheets, and other assets are all bundled in the `gem`. Meaning they're not easily visible in your project.

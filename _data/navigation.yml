@@ -7,7 +7,7 @@ main:
   - title: "Contact"
     url: /about/
   - title: "Training"
-    url: /about/
+    url: /training/
 avatar:
   - image: "/assets/images/leo0.png" # Ruta de la imagen de avatar (reemplaza con tu propia imagen)
     alt: "Avatar" # Texto alternativo para la imagen
@@ -20,3 +20,28 @@ avatar:
   #   url: /collection-archive/
   # - title: "Sitemap"
   #   url: /sitemap/
+
+soapui:
+  - title: Instalacion
+    children:
+      - title: "Quick-Start Guide"
+        url: /training/soapui/quick-start-guide/
+      - title: "Structure"
+        url: /training/soapui/structure/
+      - title: "Installation"
+        url: /training/soapui/installation/
+      - title: "Upgrading"
+        url: /training/soapui/upgrading/
+
+  - title: Configuracion
+    children:
+      - title: "Configuration"
+        url: /training/soapui/configuration/
+      - title: "Navigation"
+        url: /training/soapui/navigation/
+      - title: "UI Text"
+        url: /training/soapui/ui-text/
+      - title: "Authors"
+        url: /training/soapui/authors/
+      - title: "Layouts"
+        url: /training/soapui/layouts/

@@ -1,9 +1,11 @@
 ---
 title: "Upgrading"
-permalink: /docs/upgrading/
+permalink: /training/soapui/upgrading/
 excerpt: "Instructions and suggestions for upgrading the theme."
 last_modified_at: 2021-06-23T08:15:34-04:00
 toc: true
+sidebar:
+  nav: "soapui"
 ---
 
 If you're using the [Ruby Gem]({{ "/docs/quick-start-guide/#gem-based-method" | relative_url }}) or [remote theme]({{ "/docs/quick-start-guide/#remote-theme-method" | relative_url }}) versions of Minimal Mistakes, upgrading is fairly painless.
@@ -73,12 +75,12 @@ Another way of dealing with updates is [downloading the theme](https://github.co
 
 Here's a quick checklist of the important folders/files you'll want to be mindful of:
 
-| Name                   |     |
-| ----                   | --- |
-| `_layouts`             | Replace all. Apply edits if you customized any layouts. |
-| `_includes`            | Replace all. Apply edits if you customized any includes. |
-| `assets`               | Replace all. Apply edits if you customized stylesheets or scripts. |
-| `_sass`                | Replace all. Apply edits if you customized Sass partials. |
+| Name                   |                                                                                |
+| ---------------------- | ------------------------------------------------------------------------------ |
+| `_layouts`             | Replace all. Apply edits if you customized any layouts.                        |
+| `_includes`            | Replace all. Apply edits if you customized any includes.                       |
+| `assets`               | Replace all. Apply edits if you customized stylesheets or scripts.             |
+| `_sass`                | Replace all. Apply edits if you customized Sass partials.                      |
 | `_data/navigation.yml` | Safe to keep. Verify that there were no major structural changes or additions. |
 | `_data/ui-text.yml`    | Safe to keep. Verify that there were no major structural changes or additions. |
 | `_config.yml`          | Safe to keep. Verify that there were no major structural changes or additions. |

@@ -310,7 +310,6 @@ defaults:
       comments: false
       share: false
       related: true
-
 # soapui
   - scope:
       path: ""

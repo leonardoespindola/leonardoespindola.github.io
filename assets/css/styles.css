@@ -23,13 +23,13 @@ body {
 }
 
 h1 {
-  font-size: 3rem;
+  font-size: 360%;
   margin-bottom: 1rem;
-  font-family: 'Bangers', cursive;
+ /* font-family: 'Bangers', cursive;*/
 }
 
 p {
-  font-size: 1.1rem;
+  font-size: 200%;
   margin-bottom: 2rem;
 }
 
@@ -42,7 +42,7 @@ p {
   display: inline-block;
   margin: 0 0.5rem;
   color: black;
-  font-size: 2rem;
+  font-size: 3rem;
   text-decoration: none;
   transition: color 0.3s ease;
 }

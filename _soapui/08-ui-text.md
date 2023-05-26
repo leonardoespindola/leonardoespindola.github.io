@@ -1,8 +1,10 @@
 ---
 title: "UI Text"
-permalink: /docs/ui-text/
+permalink: /training/soapui/ui-text/
 excerpt: "Text for customizing user interface elements found in the theme."
 last_modified_at: 2021-05-11T10:22:55-04:00
+sidebar:
+  nav: "soapui"
 ---
 
 Text for UI elements, `_layouts`, and `_includes` grouped together as a set of translation keys. This is by no means a full-on i18n solution, but it does help make customizing theme text a bit easier.
