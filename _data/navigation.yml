@@ -7,7 +7,7 @@ main:
   - title: "Contact"
     url: /about/
   - title: "Training"
-    url: /training/
+    url: /#/
 avatar:
   - image: "/assets/images/leo0.png" # Ruta de la imagen de avatar (reemplaza con tu propia imagen)
     alt: "Avatar" # Texto alternativo para la imagen
