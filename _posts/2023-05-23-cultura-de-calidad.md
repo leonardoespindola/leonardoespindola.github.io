@@ -3,8 +3,8 @@ title: Cultura de calidad
 date: 2023-05-23
 permalink: /:categories/:title/
 header:
-  image: /assets/images/cover-images/1.png
-  teaser: /assets/images/cover-images/1.png
+  image: /assets/images/banner/banner-cultura-de-calidad2.png
+  teaser: /assets/images/teaser/teaser-cultura-de-calidad.png
 categories:
   - Blog
 tags:

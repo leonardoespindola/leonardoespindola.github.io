@@ -19,7 +19,7 @@ locale                   : "es-AR"
 title                    : "Leonardo Espindola - Cultura de calidad"
 title_separator          : #
 subtitle                 : "Se la costruye entre todos" # site tagline that appears below site title in masthead
-name                     : "Leonardo Espindole"
+name                     : "Leonardo Espindola"
 description              : "Un sitio que fomenta la calidad tenica, de delivery, de coaching y de producto"
 url                      : "https://leonardo-espindola.ar"
 #baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -324,7 +324,23 @@ defaults:
       sidebar:
         nav: "soapui"
 
+# postman
+  - scope:
+      path: ""
+      type: postman
+    values:
+      layout: single
+      toc: true
+      toc_label: "On This Page"
+      toc_sticky: true
+      share: true
+      sidebar:
+        nav: "postman"
+
 collections:
   soapui:
+    output: true
+    permalink: /:collection/:path/
+  postman:
     output: true
     permalink: /:collection/:path/

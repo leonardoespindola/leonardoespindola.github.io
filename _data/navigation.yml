@@ -5,9 +5,9 @@ main:
   - title: "Blog"
     url: /blog/
   - title: "Contact"
-    url: /about/
+    url: /contact/
   - title: "Training"
-    url: /#/
+    url: /training/
 avatar:
   - image: "/assets/images/leo0.png" # Ruta de la imagen de avatar (reemplaza con tu propia imagen)
     alt: "Avatar" # Texto alternativo para la imagen
@@ -20,28 +20,43 @@ avatar:
   #   url: /collection-archive/
   # - title: "Sitemap"
   #   url: /sitemap/
+postman:
+  - title: Introduccion
+    children:
+      - title: "Instalacion"
+        url: /training/postman/instalacion-postman/
+      - title: "Header Bar"
+        url: /training/postman/header-bar-postman/
+      - title: "Side Bar"
+        url: /training/postman/side-bar-postman/
+      - title: "Builder"
+        url: /training/postman/builder-postman/
+
+  - title: Primeros Pasos
+    children:
+      - title: "Variables (Parte 1)"
+        url: /training/postman/variables-p1/
 
 soapui:
-  - title: Instalacion
+  - title: Introduccion
     children:
-      - title: "Quick-Start Guide"
-        url: /training/soapui/quick-start-guide/
-      - title: "Structure"
-        url: /training/soapui/structure/
-      - title: "Installation"
-        url: /training/soapui/installation/
-      - title: "Upgrading"
-        url: /training/soapui/upgrading/
+      - title: "Arquitectura"
+        url: /training/soapui/arquitectura-soapui/
+      - title: "Instalacion"
+        url: /training/soapui/instalacion-soapui/
+      - title: "Proyecto Rest"
+        url: /training/soapui/proyecto-rest/
+      - title: "Properties"
+        url: /training/soapui/properties-rest/
 
-  - title: Configuracion
+  - title: Primeros pasos
     children:
-      - title: "Configuration"
-        url: /training/soapui/configuration/
-      - title: "Navigation"
-        url: /training/soapui/navigation/
-      - title: "UI Text"
-        url: /training/soapui/ui-text/
-      - title: "Authors"
-        url: /training/soapui/authors/
-      - title: "Layouts"
-        url: /training/soapui/layouts/
+      - title: "Testcase"
+        url: /training/soapui/testcase-soapui/
+      - title: "Assertions Https Status code"
+        url: /training/soapui/assertions-http-status-code/
+      - title: "Manual & Delay step"
+        url: /training/soapui/manual-&-delay-step/
+      - title: "Custom Properties (Parte 1)"
+        url: /training/soapui/custom-properties-p1/
+
