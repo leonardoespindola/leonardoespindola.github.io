@@ -20,7 +20,7 @@ title                    : "Leonardo Espindola - Cultura de calidad"
 title_separator          : #
 subtitle                 : "Se la costruye entre todos" # site tagline that appears below site title in masthead
 name                     : "Leonardo Espindola"
-description              : "Un sitio que fomenta la calidad tenica, de delivery, de coaching y de producto"
+description              : "Un sitio que fomenta la calidad tecnica, de delivery, de coaching y de producto"
 url                      : "https://leonardo-espindola.ar"
 #baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -239,6 +239,7 @@ plugins:
   - jekyll-gist
   - jekyll-feed
   - jekyll-include-cache
+  - jekyll-seo-tag
 
 # mimic GitHub Pages with --safe
 whitelist:
