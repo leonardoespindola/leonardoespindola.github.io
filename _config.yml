@@ -18,7 +18,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 locale                   : "es-AR"
 title                    : "Leonardo Espindola - Cultura de calidad"
 title_separator          : #
-subtitle                 : "Se la costruye entre todos" # site tagline that appears below site title in masthead
+subtitle                 : "Se la construye entre todos" # site tagline that appears below site title in masthead
 name                     : "Leonardo Espindola"
 description              : "Un sitio que fomenta la calidad tecnica, de delivery, de coaching y de producto"
 url                      : "https://leonardo-espindola.ar"

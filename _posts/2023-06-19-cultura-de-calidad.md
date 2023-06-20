@@ -17,6 +17,6 @@ Después de tomarme un tiempo, pensando que rumbo tomar sobre las pruebas, autom
 
 La cultura de calidad es la navaja suiza de un buen producto y/o servicio, con ella accedes a una variedad de instrumentos que permiten liberar el poder de la colaboración, desentrañar riesgos y malos entendidos, dominar la resolución de problemas, fomentar el pensamiento crítico, las pruebas eficientes y efectivas, aprender de las fortalezas y debilidades de cada uno, dedicarnos a garantizar la calidad absoluta de los servicios.
 
-Si sos un Ingeniero de calidad (QE), un Developer, un Tester, Product Owner o cualquier profesional del mundo IT, te invito a sumergirte en este Blog, navegaremos por los secretos de esta grandiosa disciplina, estudiaremos sus actividades, herramientas y como interactúan con los roles de IT.
+Si sos un Ingeniero de calidad (QE), Developer, Tester, Product Owner o cualquier profesional del mundo IT, te invito a sumergirte en este Blog, navegaremos por los secretos de esta grandiosa disciplina, estudiaremos sus actividades, herramientas y como interactúan con los roles de IT.
 
 Nos vemos en #qualityculture.
