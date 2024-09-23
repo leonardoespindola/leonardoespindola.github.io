@@ -13,3 +13,11 @@ search: false
   /* Otros estilos para el fondo, como background-size, background-position, etc. */
 }
 
+.masthead {
+  position: sticky;
+  top: 0;
+  z-index: 1000; /* Asegúrate de que esté por encima de otros elementos */
+  background-color: #fff; /* Para que no se vea transparente */
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Añade una sombra ligera para dar énfasis */
+}
+

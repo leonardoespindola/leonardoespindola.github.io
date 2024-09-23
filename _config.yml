@@ -129,9 +129,6 @@ author:
     - label: "Linkedin"
       icon: "fab fa-fw fa-linkedin"
       url: "https://linkedin.com/in/leonardoespindola"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/leonardoespindola"
     - label: "Youtube"
       icon: "fab fa-fw fa-youtube"
       url: "https://youtube.com/@leonardo-espindola"
@@ -146,12 +143,6 @@ footer:
       url: https://www.linkedin.com/in/leonardoespindola
     - label: "Facebook"
       icon: "fab fa-fw fa-linkedin-in"
-      # url:
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: https://www.github.com/leonardoespindola
-    - label: "GitLab"
-      icon: "fab fa-fw fa-gitlab"
       # url:
     - label: "youtube"
       icon: "fab fa-fw fa-youtube"
